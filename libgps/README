@@ -1,0 +1,8 @@
+This directory for ChaCha's GPS
+
+gps.chacha.so
+MUST MATCH
+librpc.so
+
+
+And I did not find worked open source code. So I Use the stock gps.chacha.so & librpc.so
